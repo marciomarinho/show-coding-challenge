@@ -357,6 +357,7 @@ The AWS infrastructure to host the service as been designed, developed and deplo
 The following resources have been created:
 - Cognito User Pool
 - VPC
+- VPC Link
 - Subnets
 - Security Group
 - CodeBuild
