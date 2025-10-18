@@ -4,8 +4,6 @@ Welcome to the Coding Challenge! To complete this challenge, you will need to wr
 
 **Note:** As this is also an exercise in setup and deployment, please don't solve this by adding an endpoint to an existing app. The service should be standalone and deployed at the root path - e.g. `http://myservice.herokuapp.com/`
 
-This challenge is expected to take about 2-4 hours, and can be completed using only free resources.
-
 ## The Challenge
 
 This challenge is based on a simplified version of a catch-up TV service. The service provides a list of shows, and you need to filter that list based on some criteria.
